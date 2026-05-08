@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+Sessions/session_02_LLM_API/my_api_key.py
