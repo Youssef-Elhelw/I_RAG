@@ -44,7 +44,7 @@
         - Optional data being sent (e.g., your username when logging in).
 2. **The Response**: 
     - The server processes the request and sends back:
-        - Status Code: A three-digit number showing if it worked (e.g., 200 OK for success, 404 Not Found if the page is missing).
+        - Status Code: A three-digit number showing if it worked (e.g., <span style="color:green">200</span> OK for success, <span style="color:red">404</span> Not Found if the page is missing).
         - Body: The actual content, often formatted as JSON so it's easy for the app to read.
 
 ### 1.4 What is the Relation between API and HTTP?
