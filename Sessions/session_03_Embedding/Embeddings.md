@@ -1,19 +1,19 @@
 # Embeddings
 
 ## Table of Contents
-### 1. [What are Vectors?](#1-what-are-vectors)
-### 2. [What is an Embedding?](#2-what-is-an-embedding)
-### 3. [Why Do We Need Embeddings?](#3-why-do-we-need-embeddings)
-### 4. [One-Hot Encoding Problem](#4-one-hot-encoding-problem)
-### 5. [Dense Vector Representation](#5-dense-vector-representation)
-### 6. [Semantic Meaning in Embeddings](#6-semantic-meaning-in-embeddings)
-### 7. [Word Embeddings](#7-word-embeddings)
-### 8. [Sentence Embeddings](#8-sentence-embeddings)
-### 9. [How do LLMs use embeddings?](#9-how-do-llms-use-embeddings)
-### 10. [Embedding Dimensions](#10-embedding-dimensions)
-### 11. [How Embeddings Are Learned](#11-how-embeddings-are-learned)
-### 12. [Popular Embedding Models](#12-popular-embedding-models)
-### 13. [Important Terms](#13-important-terms)
+### 1. [What are Vectors?](#1-what-are-vectors-1)
+### 2. [What is an Embedding?](#2-what-is-an-embedding-1)
+### 3. [Why Do We Need Embeddings?](#3-why-do-we-need-embeddings-1)
+### 4. [One-Hot Encoding Problem](#4-one-hot-encoding-problem-1)
+### 5. [Dense Vector Representation](#5-dense-vector-representation-1)
+### 6. [Semantic Meaning in Embeddings](#6-semantic-meaning-in-embeddings-1)
+### 7. [Word Embeddings](#7-word-embeddings-1)
+### 8. [Sentence Embeddings](#8-sentence-embeddings-1)
+### 9. [How do LLMs use embeddings?](#9-how-do-llms-use-embeddings-1)
+### 10. [Embedding Dimensions](#10-embedding-dimensions-1)
+### 11. [How Embeddings Are Learned](#11-how-embeddings-are-learned-1)
+### 12. [Popular Embedding Models](#12-popular-embedding-models-1)
+### 13. [Important Terms](#13-important-terms-1)
 
 ---
 
