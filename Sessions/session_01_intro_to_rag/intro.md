@@ -100,7 +100,7 @@ This is exactly where RAG (Retrieval-Augmented Generation) comes in.
 
 - In **offline phase** we **build it once**, This phase **prepares all the data** so it can be efficiently searched later:
     1. **Documents** (PDFs, articles, notes, websites, etc.)
-    2. **Chunking** (Splitting long documents into smaller, manageable pieces (chunks) to improve retrieval accuracy)
+    2. **Chunking** (Splitting long documents into smaller, manageable pieces (chunks) to improve retrieval accuracy) (see [Session 5](../session_05_Chunking/chunking.md) for more details)
     3. **Embedding model** (converts each chunk into a vector (a list of ~1000 numbers) that captures its meaning, not just keywords. Similar meaning = similar numbers) 
     4. **Vector Database** (stores all those vectors, to enable fast similarity searches, allowing LLMs to retrieve relevant, real-time context. )
 
